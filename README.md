@@ -16,7 +16,7 @@
   
 # Installation 
 ### Installation
-- Open the [Releases](https://github.com/skeqt/AveryNuker/releases) Page.
+- Open the [Releases](https://github.com/soyandrey/Blackslash-Nuker/releases) Page.
 - Click on the latest version.
 - Click on the `BSNuker.py`.
   
